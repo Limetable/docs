@@ -17,12 +17,12 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Support(via Email)",
       "url": "mailto:info@minigo.cfd"
     }
   ],
   "topbarCtaButton": {
-    "name": "Support",
+    "name": "Support(via Discord)",
     "url": "https://discord.gg/CVFUmwDAuR"
   },
   "tabs": [
